@@ -1,0 +1,12 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg{
+    background-image: url(https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/1378122/910/606/m2/fpnw/wm1/yavpwadgqevf8kn24jgyqjmlgmp75neylsef6d7ghdwsmruf6auwdzvpv3ailato-.jpg?1466257654&s=184319b6bc388f8b639e962a4c5979db);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
