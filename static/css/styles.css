@@ -4,3 +4,8 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#center-fell-great-font {
+    font-family: 'IM Fell Great Primer SC', serif;
+    text-align: center;
+}
