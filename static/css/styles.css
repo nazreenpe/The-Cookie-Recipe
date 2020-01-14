@@ -3,16 +3,31 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
-#center-arial-font {
-    font-family: Arial, Helvetica, sans-serif;
+#center-acme-font {
+    font-family: 'Acme', sans-serif;
     text-align: center;
 }
 
-.heading-and-intro.image-center-auto-width{
-    width: 100%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.intro {
+    font-size: 2 em;
+    font-family: 'Acme', sans-serif;
+    font-style: normal;
+    margin: 50px 20px 20px 50px ;
+}
+
+.image-left {
+    float: left;
+    margin: 10px 50px;
+} 
+
+.top-right {
+  display: inline;
+}
+
+.center-left {
+    margin: 0 ;
+    float: left;
 }
