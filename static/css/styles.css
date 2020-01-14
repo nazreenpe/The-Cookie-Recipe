@@ -5,9 +5,11 @@ html {
     background-size: cover;
 }
 
-
-#center-fell-great-font {
+#center-arial-font {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
+.heading-and-intro.image-center-auto-width{
+    width: auto;
+}
