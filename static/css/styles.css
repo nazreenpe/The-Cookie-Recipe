@@ -1,33 +1,31 @@
-html {
+body {
     background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%;
     
 }
 
-#center-acme-font {
-    font-family: 'Acme', sans-serif;
+#center-luckiest-font {
+    font-family: 'Luckiest Guy', cursive;
     text-align: center;
+    margin: 20px 20px;
 }
 
-.intro {
-    font-size: 2 em;
-    font-family: 'Acme', sans-serif;
-    font-style: normal;
-    margin: 50px 20px 20px 50px ;
-}
-
-.image-left {
-    float: left;
-    margin: 10px 50px;
-} 
-
-.top-right {
-  display: inline;
+.large-font-white-bg {
+    font-size: 3 em;
+    margin: 50px ;
+    background-color: rgb(249, 247, 247);
 }
 
 .center-left {
-    margin: 0 ;
     float: left;
+}
+.patrick-hand {
+    font-family: 'Patrick Hand', cursive;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: white;
 }
